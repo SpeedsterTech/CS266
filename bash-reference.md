@@ -11,7 +11,9 @@
     - `/` for directory
     - `@` for link
     - `*` for executable file  
-- `cd` -
+- `cd` - Change directory
+  - `cd ..` - go back one directory
+- 
 
 ## More sections...
 - more commands...
