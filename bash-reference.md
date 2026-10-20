@@ -16,7 +16,9 @@
 - `mkdir [name] ` - makes a directory
   - `mkdir -p` - makes directory with nested folders in a single sweep
 - `nano` - text file editor and creater
-
+- `mv` - move a file
+- `cp` - copy
+-  
 ## More sections...
 - more commands...
   - more options...
