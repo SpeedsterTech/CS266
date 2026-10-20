@@ -13,7 +13,9 @@
     - `*` for executable file  
 - `cd` - Change directory
   - `cd ..` - go back one directory
-- 
+- `mkdir [name] ` - makes a directory
+  - `mkdir -p` - makes directory with nested folders in a single sweep
+- `nano` - text file editor and creater
 
 ## More sections...
 - more commands...
